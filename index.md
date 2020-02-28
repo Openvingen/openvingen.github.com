@@ -9,15 +9,15 @@
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- Bulleted. 
+- List. 
 
-1. Numbered
-2. List
+1. Numbered. 
+2. List. 
 
-**Bold** 
-_Italic_
-`Code` text
-[Link](url) 
-![Image](src)
+**Bold**   
+_Italic_.  
+`Code` text. 
+[Link](url)   
+![Image](src). 
 
